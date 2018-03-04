@@ -7,7 +7,7 @@
 - 后端框架：Spring + Spring MVC + MyBatis
 - 数据库：MySQL
 - 数据库连接池：c3p0
-## 技术点：
+## 技术点
 - 搭建SSM集成开发环境
 - 使用MyBatis Generator自动生成模板代码
 - 使用PageHelper（MyBatis插件）分页查询
@@ -20,4 +20,5 @@
         - 可用性校验（如用户名是否可用）
     - 后端校验
         - JSR303
+
 ![](https://github.com/gaobingyi/ssm-crud/blob/master/docs/readme.png)
